@@ -1,3 +1,5 @@
+#### This followed the code along instructions in this [video by jayzern](https://www.youtube.com/watch?v=OLXkGB7krGo). I learned a ton setting it all up for myself, and am looking forward to using the same setup to try one of my own projects next! 
+
 # Build an ELT Pipeline: dbt, Snowflake, and Airflow (Cosmos)
 
 This repository contains a local end-to-end ELT (Extract, Load, Transform) data pipeline. In modern data engineering, we leverage cloud storage and compute to load raw data first, and then transform it using **dbt (Data Build Tool)** inside **Snowflake**, all orchestrated seamlessly on Windows/WSL using **Apache Airflow and Astronomer Cosmos**.
